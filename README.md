@@ -5,7 +5,6 @@
 
 ## <a name='toc'>Содержание</a>
 
-  1. [Участники](#contributors)
   1. [Общие вопросы](#general)
   1. [Простые вопросы о Linux](#simple)
   1. [Вопросы среднего уровня о Linux](#medium)
@@ -17,21 +16,6 @@
   1. [Забавные вопросы](#fun)
   1. [Время демо](#demo)
   1. [Другие ссылки](#references)
-
-
-#### [[⬆]](#toc) <a name='contributors'>Участники:</a>
-
-* [moregeek](https://github.com/moregeek)
-* [typhonius](https://github.com/typhonius)
-* [schumar](https://github.com/schumar)
-* [negesti](https://github.com/negesti)
-* peter
-* [andreashappe](https://github.com/andreashappe)
-* [quatrix](https://github.com/quatrix)
-* [biyanisuraj](https://github.com/biyanisuraj)
-* [pedroguima](https://github.com/pedroguima)
-* Ben
-* [bharatnc](https://github.com/bharatnc)
 
 
 #### [[⬆]](#toc) <a name='general'>Общие вопросы:</a>
