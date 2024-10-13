@@ -66,7 +66,7 @@
 - [ ] Что означают права 0750 для файла?
 - [ ] Что означают права 0750 для каталога?
 - [ ] Как добавить пользователя без прав входа в систему?
-  - [X] `sudo adduser nouser --shell=/bin/false`; `sudo adduser nouser --system`; `sudo adduser nouser --system --no-create-home`
+  - [X] `adduser nouser --shell=/bin/false`; `adduser nouser --system`; `adduser nouser --system --no-create-home`
 - [ ] Как добавить/убрать пользователя в/из группы?
 - [ ] Что такое bash алиас?
 - [ ] Как установить email для пользователя root?
